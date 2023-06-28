@@ -1,3 +1,3 @@
 # arduino_homeautomation
 
-Implemented an Arduino-based home automation system by designing System architecture and Finite-state machine; coding with support from Arduino libraries; simulating with Proteus Design Suite; then connected to Adafruit IO server and Python gateway. Some developed features were: Timer interrupts, Indoor air monitoring, Automatic door, Soil moisture detection and Gas density detection.
+**SCENARIO**: Implementation of an Arduino-based home automation system using the following steps: design system architecture and finite-state machine (FSM); develop each module with support from Arduino libraries; simulate with Proteus Design Suite; then connect to Adafruit IO server and Python gateway. Some developed features are: timer interrupts, indoor air monitoring, simple automatic door, soil moisture detection and gas density detection.
